@@ -1,0 +1,2 @@
+let name= "Pranay Tandel";
+let age= 23;
